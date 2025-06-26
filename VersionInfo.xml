@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-  <Version>5.3.8768.31320</Version>
+  <Version>5.4.9308.27546</Version>
   <UpdaterVersion>1.2.3.0</UpdaterVersion>
-  <Date>2024-01-03</Date>
+  <Date>2025-06-26</Date>
   <Url>https://raw.githubusercontent.com/pungin/Beanfun/master/Beanfun.zip</Url>
-  <Note>| 更正官網改版導致無法開啟繽放的問題
+  <Note>| 修復遊戲新楓之谷自動輸入異常
   </Note>
 </VersionInfo>
